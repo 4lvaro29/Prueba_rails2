@@ -7,3 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Item.destroy_all
+
+item1 = Item1.create!(name: "Item1 1")
+item2 = Item2.create!(name: "Item2 2")
+item3 = item3.create!(name: "item3 3")
